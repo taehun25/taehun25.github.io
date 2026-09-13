@@ -32,7 +32,7 @@ const translations = {
     experienceTitle: "Experience",
     researchArea:
       "Robotics Communication & Network Middleware",
-    summerIntern: "Summer Intern",
+    summerIntern: "External Researcher",
     msCourse: "M.S. Course",
 
     sectionPublicationsLabel: "Research Output",
@@ -91,7 +91,7 @@ const translations = {
     experienceTitle: "경력",
     researchArea:
       "로봇 통신 및 네트워크 미들웨어",
-    summerIntern: "하계 인턴",
+    summerIntern: "외부 연구원",
     msCourse: "석사과정",
 
     sectionPublicationsLabel: "연구 실적",
